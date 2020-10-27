@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hello there 👋
+Whoever you are, I hope you have a great day!
+
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links -->
+[2]: https://www.linkedin.com/in/heinz-martin/
 
 <!--
 **febiyanY/febiyanY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
