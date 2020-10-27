@@ -1,6 +1,6 @@
 ## Hello there 👋
-Whoever you are, I hope you have a great day!
-You can Find me in [a link](https://www.linkedin.com/in/febiyana-nur-yahya-b154391b9)
+Whoever you are, I hope you have a great day!. <br />
+You can find more about me in [Here](https://www.linkedin.com/in/febiyana-nur-yahya-b154391b9)
 
 <!--
 **febiyanY/febiyanY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
